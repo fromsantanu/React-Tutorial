@@ -3,10 +3,10 @@
 ---
 
 ### **1. Introduction to React.js**
-- What is React.js?
-- Key features of React
-- React vs other front-end frameworks (Angular, Vue)
-- The concept of declarative programming
+- [What is React.js?](https://github.com/fromsantanu/React-Tutorial/blob/main/CH-01-1.md)
+- [Key features of React](https://github.com/fromsantanu/React-Tutorial/blob/main/CH-01-2.md)
+- [React vs other front-end frameworks (Angular, Vue)](https://github.com/fromsantanu/React-Tutorial/blob/main/CH-01-3.md)
+- [The concept of declarative programming](https://github.com/fromsantanu/React-Tutorial/blob/main/CH-01-4.md)
 
 ### **2. Setting Up the React Environment**
 - Installing Node.js and npm
